@@ -45,6 +45,22 @@ https://panggu15.github.io/basic/sound_anal/#google_vignette
 
 https://ko.packetlosstest.com/
 
+### 오디오 믹서 (프로토콜에 의한 정보전달)
+https://ko.wikipedia.org/wiki/%EC%98%A4%EB%94%94%EC%98%A4_%EB%AF%B9%EC%84%9C#%EC%98%A4%EB%94%94%EC%98%A4_%EC%8B%A0%ED%98%B8
+
+### 파이썬: TCP/IP 소켓 통신
+
+https://duri1994.github.io/python/python-socket-network/
+
+### 실제 산업현장에서 쓰이는 비동기식 TCP/IP 네트워크 통신 프로그래밍
+
+https://blog.naver.com/PostView.nhn?blogId=rhukjin&logNo=222038114130
+
+### Python으로 획득한 파형 데이터 작업하기(시각화 좋을수도)
+
+https://www.rohde-schwarz.com/kr/applications/python-application-card_56279-1165008.html
+
+
 # 용어 정리
 
 ### 표본화, 양자화, 부호화, 복호화, 여과
