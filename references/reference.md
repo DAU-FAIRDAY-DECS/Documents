@@ -1,51 +1,31 @@
 # 레퍼런스
 
-### 에러 확률 / 오류 확률 계산 식
-
-http://www.ktword.co.kr/test/view/view.php?no=3407
-
-### IP 인터컴 시스템
-
-https://www.toa-products.com/international/download/spec/n-8000ex_kr_cb1k.pdf
-
-### 대양전기공업 논문
-
-https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201014035208697
+## 오디오
 
 ### 오디오 신호 처리
 
 https://supermanhistory.tistory.com/entry/%EC%98%A4%EB%94%94%EC%98%A4-%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC%EB%9E%80
 https://velog.io/@p2yeong/%EC%98%A4%EB%94%94%EC%98%A4-%EC%B2%98%EB%A6%ACAudio-Processing
 
-### 오디오 신호 처리 방법
+### 딥 러닝 노이즈 섞인 음성 만들기
 
-https://patents.google.com/patent/WO2014175668A1/ko
+https://github.com/Sato-Kunihiko/audio-SNR
+
+### 파이썬 음성 노이즈 추가하는 방법
+
+https://github.com/smothly/High_Perfomance_Python/blob/master/Untitled.ipynb
+
+## 네트워크
+
+### IP 인터컴 시스템
+
+https://www.toa-products.com/international/download/spec/n-8000ex_kr_cb1k.pdf
 
 ### 네트워크에 필요한 프로토콜
 
 https://www.whatap.io/ko/blog/160/
 
-### **음성 인식 오류 통보 장치 및 방법**
-
-https://patents.google.com/patent/KR100834679B1/ko
-
-### 음성 패킷을 이용한 채널의 에러 정보 전달
-
-https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09668027
-
-### 오디오 품질 개선하기 위한 6가지 알고리즘
-
-https://koreascience.kr/article/CFKO200011921241454.pdf
-
-### 파이썬 Librosa 라이브러리 
-
-https://panggu15.github.io/basic/sound_anal/#google_vignette
-
-### 패킷 손실률 테스트
-
-https://ko.packetlosstest.com/
-
-### 파이썬: TCP/IP 소켓 통신
+### 파이썬 TCP/IP 소켓 통신
 
 https://duri1994.github.io/python/python-socket-network/
 
@@ -53,10 +33,17 @@ https://duri1994.github.io/python/python-socket-network/
 
 https://blog.naver.com/PostView.nhn?blogId=rhukjin&logNo=222038114130
 
-### Python으로 획득한 파형 데이터 작업하기
+## 에러율
 
-https://www.rohde-schwarz.com/kr/applications/python-application-card_56279-1165008.html
+### 이미지 유사도 측정을 적용한 산업제품 사운드 분석
 
+https://www.mdpi.com/2227-7390/11/3/498
+
+## Else
+
+### 오디오 품질 개선하기 위한 6가지 알고리즘
+
+https://koreascience.kr/article/CFKO200011921241454.pdf
 
 # 용어 정리
 
@@ -77,4 +64,5 @@ https://www.whatap.io/ko/blog/149/index.html
 http://www.ktword.co.kr/test/view/view.php?m_temp1=491
 
 ### 오디오 믹서 (프로토콜에 의한 정보전달)
+
 https://ko.wikipedia.org/wiki/%EC%98%A4%EB%94%94%EC%98%A4_%EB%AF%B9%EC%84%9C#%EC%98%A4%EB%94%94%EC%98%A4_%EC%8B%A0%ED%98%B8
